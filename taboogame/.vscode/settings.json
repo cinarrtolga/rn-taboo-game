@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/__tests__": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "**/.gitattributes": true,
+        "**/.gitignore": true
+    },
+    "explorerExclude.backup": null
+}
