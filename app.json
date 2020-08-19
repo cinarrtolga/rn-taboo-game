@@ -1,0 +1,12 @@
+{
+  "name": "rn-taboo-game",
+  "displayName": "rn-taboo-game",
+  "expo": {
+    "name": "rn-taboo-game",
+    "slug": "rn-taboo-game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
